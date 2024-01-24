@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main{
+    width: 100%;
+    background: linear-gradient(180deg, 
+    #eac12c 0%, 
+    #008000af, 
+    #fff);
+}
+
+.amoiri{
+    text-align: center;
+}
+
+
+.Ministere{
+    margin: 0 0 10px 0;
+}
+
+.logos{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logoAgitel{
+    width: 25%;
+    text-align: center;
+    box-shadow: 0 0 20px 0px #008000af;
+}
+
+.logoSetech{
+    width: 25%; 
+    text-align: center;
+    box-shadow: 0 0 20px 0px #008000af;
+}
+
+.PhraseDeP{
+    text-align: center; 
+    margin-bottom: 15px;
+}
+
+.sujet{
+    text-align: center;  
+    margin-bottom: 15px;
+}
+
+
+.nomDeeEudiant p{
+    text-align: center;
+}
+
+.dirigentDeMemoire{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.DrMemoire{
+    width:25%; 
+    text-align: center;
+    box-shadow: 0 0 20px 0px rgb(0, 0, 0);
+
+}
+
+.DrMemoire{
+    width:25%; 
+    text-align: center;
+}
